@@ -21,5 +21,6 @@ Este projeto está disponível no GitHub! Se você manja de desenvolvimento web,
 Juntos podemos levar mais amor e solidariedade para o mundo! 
 
 **Tecnologias utilizadas:** HTML, CSS, JavaScript
+**Acesse o Projeto:** https://seu-projeto-doando-amor.vercel.app/
 
 **Autor:** Wendell Gimenez ([link para o perfil do GitHub](https://github.com/wendellgimenez))
