@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Doando Amor</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Doando Amor</h1>
+    </header>
+
+    <main>
+        <section class="form-section">
+            <h2>Faça sua doação</h2>
+            <form id="donation-form" class="donation-form">
+                <label for="donation-type">Tipo de Doação:</label>
+                <select id="donation-type" name="type">
+                    <option value="">Selecione</option>
+                    <option value="alimento">Alimentos</option>
+                    <option value="roupa">Roupas</option>
+                    <option value="brinquedo">Brinquedos</option>
+                    <option value="material-limpeza">Material de Limpeza</option>
+                    <option value="material-higiene">Material de Higiene</option>
+                </select>
+
+                <div id="donation-details" class="donation-details"></div>
+
+                <button type="submit">Salvar Doação</button>
+            </form>
+        </section>
+
+        <section class="donations-section">
+            <h2>Doações Registradas</h2>
+            <ul id="donation-list" class="donation-list">
+                <!-- Lista de doações gerada dinamicamente -->
+            </ul>
+        </section>
+
+        <section class="collection-points-section">
+            <h2>Pontos de Coleta</h2>
+            <div id="collection-points-list" class="collection-points-list"></div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Doando Amor - Todos os Direitos Reservados</p>
+        <p>Desenvolvido por <a href="https://github.com/wendellgimenez">Wendell Gimenez</a></p>
+    </footer>
+
+    <script src="storage.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
