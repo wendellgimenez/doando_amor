@@ -1,10 +1,10 @@
 // app.js
 const pointsOfCollection = [
-    { name: "Escola ABC", address: "Rua Fictícia, 123", hours: "08:00 - 17:00", contact: "escola@ficticia.com", phone: "(11) 1234-5678" },
-    { name: "Bar do João", address: "Avenida Imaginária, 456", hours: "10:00 - 22:00", contact: "bar@joao.com", phone: "(11) 8765-4321" },
-    { name: "Clube XYZ", address: "Rua Inventada, 789", hours: "09:00 - 18:00", contact: "clube@xyz.com", phone: "(11) 3456-7890" },
-    { name: "Centro Comunitário", address: "Praça Fictícia, 321", hours: "08:00 - 15:00", contact: "centro@comunitario.com", phone: "(11) 9876-5432" },
-    { name: "Biblioteca Municipal", address: "Rua Exemplo, 654", hours: "10:00 - 17:00", contact: "biblioteca@municipal.com", phone: "(11) 5432-1098" }
+    { name: "Escola ABC", address: "Rua Fictícia, 123", hours: "08:00 - 17:00", contact: "escola@ficticia.com", phone: "(51) 1234-5678" },
+    { name: "Bar do João", address: "Avenida Imaginária, 456", hours: "10:00 - 22:00", contact: "bar@joao.com", phone: "(51) 8765-4321" },
+    { name: "Clube XYZ", address: "Rua Inventada, 789", hours: "09:00 - 18:00", contact: "clube@xyz.com", phone: "(51) 3456-7890" },
+    { name: "Centro Comunitário", address: "Praça Fictícia, 321", hours: "08:00 - 15:00", contact: "centro@comunitario.com", phone: "(51) 9876-5432" },
+    { name: "Biblioteca Municipal", address: "Rua Exemplo, 654", hours: "10:00 - 17:00", contact: "biblioteca@municipal.com", phone: "(51) 5432-1098" }
 ];
 
 const donationTypeSelect = document.getElementById('donation-type');
