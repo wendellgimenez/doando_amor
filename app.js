@@ -45,31 +45,31 @@ const collectionPoints = [
         name: "Escola ABC",
         address: "Rua das Flores, 123",
         hours: "Segunda a Sexta, das 8h às 17h",
-        contact: "contato@escolaabc.com.br - (11) 1234-5678"
+        contact: "contato@escolaabc.com.br - (51) 1234-5678"
     },
     {
         name: "Bar do João",
         address: "Avenida Central, 456",
         hours: "Segunda a Domingo, das 10h às 22h",
-        contact: "contato@bardojose.com.br - (11) 2345-6789"
+        contact: "contato@bardojose.com.br - (51) 2345-6789"
     },
     {
         name: "Clube Recreativo",
         address: "Rua das Palmeiras, 789",
         hours: "Segunda a Sexta, das 9h às 18h",
-        contact: "contato@cluberec.com.br - (11) 3456-7890"
+        contact: "contato@cluberec.com.br - (51) 3456-7890"
     },
     {
         name: "Biblioteca Municipal",
         address: "Praça dos Livros, 101",
         hours: "Segunda a Sexta, das 8h às 19h",
-        contact: "contato@bibliotecamunicipal.com.br - (11) 4567-8901"
+        contact: "contato@bibliotecamunicipal.com.br - (51) 4567-8901"
     },
     {
         name: "Centro Comunitário",
         address: "Rua dos Amigos, 202",
         hours: "Segunda a Sábado, das 8h às 18h",
-        contact: "contato@centrocomunitario.com.br - (11) 5678-9012"
+        contact: "contato@centrocomunitario.com.br - (51) 5678-9012"
     }
 ];
 
